@@ -6,3 +6,4 @@ DB_PASSWORD = "MyTestPass2026!"
 # scheduler automatic detection test 2
 # automatic alert pipeline test
 # alert deduplication test
+# resolved alert recurrence test
